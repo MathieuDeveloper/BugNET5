@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BugNET5", "BugNET5\BugNET5.csproj", "{95D46399-731E-4E7B-9A13-74A615831A59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95D46399-731E-4E7B-9A13-74A615831A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D46399-731E-4E7B-9A13-74A615831A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D46399-731E-4E7B-9A13-74A615831A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D46399-731E-4E7B-9A13-74A615831A59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D1BA825-15FC-41DA-BD14-D8EA347F9CD4}
+	EndGlobalSection
+EndGlobal
