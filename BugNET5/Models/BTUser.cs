@@ -16,6 +16,7 @@ namespace BugNET5.Models
 
         [NotMapped]
         [Display(Name = "Full Name")]
-        public string FullName { get; set; }
+        public string FullName { get { return $"{FirstName} {LastName}"; } }
+
     }
 }
